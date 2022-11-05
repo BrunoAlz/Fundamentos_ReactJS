@@ -1,0 +1,22 @@
+.form_title {
+    border: 3px solid black;
+    color: darkblue;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.div_form {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+form {
+    width: 500px;
+    margin: auto;
+    text-align: left;
+}
+
+input, textarea, select {
+    display: block;
+    margin-top: 10px;
+}
